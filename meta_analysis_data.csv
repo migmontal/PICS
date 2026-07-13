@@ -1,0 +1,78 @@
+domain,study,year,n,mean,sd,median_converted
+Anxiety,"Nanwani-Nanwani et al.",2022,186,6,5,no
+Anxiety,"Rousseau",2021,32,3.67,3.71,yes
+Anxiety,"González et al.",2021,62,4.35,4.59,yes
+Anxiety,"Nakamura et al.",2021,133,4.35,4.59,yes
+Anxiety,"Hatakeyama et al.",2022,251,4,4.45,yes
+Anxiety,"Sánchez-García et al.",2023,104,5.51,3.71,yes
+Depression,"Nanwani-Nanwani et al.",2022,186,6,5,no
+Depression,"Rousseau",2021,32,2.35,3.6,yes
+Depression,"González et al.",2021,62,4.02,6.75,yes
+Depression,"Nakamura et al.",2021,133,8.21,9.9,yes
+Depression,"Hatakeyama et al.",2022,251,4,4.45,yes
+Depression,"Sánchez-García et al.",2023,104,5.02,4.01,yes
+Age,"Farley",2016,27,57.7,14.3,no
+Age,"Nakamura et al.",2021,133,69.8,14.2,no
+Age,"Iribarren-Diarasarri et al.",2022,143,61.12,16.21,no
+Age,"Mateo-Rodriguez et al.",2022,29,63,10,no
+Age,"Nanwani-Nanwani et al.",2022,186,59,12,no
+Age,"Avgeri et al.",2023,143,56.8,17.49,no
+Age,"Narváez-Martínez et al.",2023,135,55.18,15.6,no
+Age,"Sánchez-García et al.",2023,104,56.69,13.76,no
+Age,"Appel et al.",2024,603,54,16.1,no
+Age,"Carenzo et al.",2024,105,61,9,no
+Age,"Egger et al.",2024,97,61.1,12.1,no
+Age,"Detsky et al.",2017,303,62,13.34,yes
+Age,"Milton",2018,572,63.18,14.56,yes
+Age,"Rousseau",2021,32,62.76,12.51,yes
+Age,"González et al.",2021,62,57.19,12.41,yes
+Age,"Hatakeyama et al.",2022,251,67.01,11.19,yes
+Age,"Watanabe et al.",2022,39,69.14,15.96,yes
+Age,"Henderson et al.",2023,115,61.15,15.85,yes
+Age,"Yamamoto et al.",2023,64,58.77,10.4,yes
+Age,"Bouzgarrou et al.",2024,67,62.53,13.41,yes
+Grip strength (kg),"Rousseau",2021,32,26.54,7.16,yes
+Grip strength (kg),"González et al.",2021,62,29.09,5.5,yes
+Grip strength (kg),"Nakamura et al.",2021,133,23.08,10.62,yes
+Grip strength (kg),"Notsuyu et al.",2023,98,21.56,3.8,yes
+Grip strength (kg),"Bouzgarrou et al.",2024,67,26.38,8.94,yes
+6MWT (m),"Mateo-Rodriguez et al.",2022,29,419,77,no
+6MWT (m),"González et al.",2021,62,403.6,58.6,yes
+6MWT (m),"Bouzgarrou et al.",2024,67,403.5,169.1,yes
+6MWT (m),"Carenzo et al.",2024,105,406.2,99.73,yes
+Cognition (MoCA/MMSE),"Rousseau",2021,32,26.1,3.07,yes
+Cognition (MoCA/MMSE),"Iribarren-Diarasarri et al.",2022,143,25.42,3.76,yes
+Cognition (MoCA/MMSE),"Mateo-Rodriguez et al.",2022,29,24,2.96,no
+Cognition (MoCA/MMSE),"Nanwani-Nanwani et al.",2022,186,47.81,68.06,no
+Cognition (MoCA/MMSE),"Carenzo et al.",2024,105,18.16,2.99,yes
+Quality of life (EQ-5D index),"Egger et al.",2024,97,0.63,0.33,no
+Quality of life (EQ-5D index),"Nakamura et al.",2021,133,0.82,0.2,yes
+Quality of life (EQ-5D index),"Hatakeyama et al.",2022,251,0.87,0.23,yes
+Quality of life (EQ-5D index),"Yamamoto et al.",2023,42,0.81,0.27,yes
+Barthel Index,"Rousseau",2021,32,99.93,9.99,yes
+Barthel Index,"Nakamura et al.",2021,133,95.96,7.92,yes
+Barthel Index,"Hatakeyama et al.",2022,251,97.91,4.08,yes
+Barthel Index,"Watanabe et al.",2022,39,99.93,9.99,yes
+Barthel Index,"Notsuyu et al.",2023,98,99.93,9.99,yes
+Barthel Index,"Yamamoto et al.",2023,64,50,50,yes
+Ventilation (days),"González et al.",2021,62,17.4,8.5,no
+Ventilation (days),"Iribarren-Diarasarri et al.",2022,143,11.09,15.35,yes
+Ventilation (days),"Narváez-Martínez et al.",2023,135,17,15,no
+Ventilation (days),"Sánchez-García et al.",2023,104,27.1,2.16,no
+Ventilation (days),"Egger et al.",2024,97,42.5,24.3,no
+Ventilation (days),"Milton",2018,572,110.3,166.3,yes
+Ventilation (days),"Nakamura et al.",2021,133,9.52,40.2,yes
+Ventilation (days),"Hatakeyama et al.",2022,147,13.6,12.38,yes
+Ventilation (days),"Mateo-Rodriguez et al.",2022,29,18.67,17.79,no
+Ventilation (days),"Nanwani-Nanwani et al.",2022,186,26.68,39.89,no
+Ventilation (days),"Avgeri et al.",2023,143,11.71,25.06,yes
+Ventilation (days),"Yamamoto et al.",2023,64,11.88,9.51,yes
+Ventilation (days),"Bouzgarrou et al.",2024,67,14.28,26.79,yes
+Ventilation (days),"Carenzo et al.",2024,105,17.98,15.81,yes
+ICU LOS (days),"Sánchez-García et al.",2023,104,21.87,19.64,no
+ICU LOS (days),"Egger et al.",2024,97,55.7,26.5,no
+ICU LOS (days),"Rousseau",2021,32,30,14.83,yes
+ICU LOS (days),"González et al.",2021,62,18.48,15.41,yes
+ICU LOS (days),"Nakamura et al.",2021,133,8.65,7.29,yes
+ICU LOS (days),"Mateo-Rodriguez et al.",2022,29,24,17.79,no
+ICU LOS (days),"Avgeri et al.",2023,143,29.91,67.66,yes

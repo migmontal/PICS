@@ -1,0 +1,28 @@
+# Temporary Word files
+~$*.docx
+~$*.doc
+
+# R history
+.Rhistory
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Excel temp files
+~$*.xlsx
+
+# Old/original files
+scrip\ post-ICU\ syndrome.docx
+PICS_SR_MA_BMC_READY.docx
+convert_to_word.py
+convert_md_docx.py
+python.bat
+python_setup.ps1
+
+# Build/test outputs
+*.aux
+*.log
+*.out
+meta_analysis_results.csv
