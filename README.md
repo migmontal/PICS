@@ -42,7 +42,7 @@ This repository contains the R code necessary to **fully reproduce** the statist
 ## Contents
 
 ```
-PIC/
+PICS/
 ├── README.md                          # This file
 ├── scripts/
 │   └── 01_meta_analysis.R            # Complete meta-analytic analysis
@@ -90,8 +90,8 @@ The file `01_meta_analysis.py` provides an equivalent implementation in Python 3
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/migmontal/PIC.git
-cd PIC
+git clone https://github.com/migmontal/PICS.git
+cd PICS
 ```
 
 ### Step 2: Install dependencies
