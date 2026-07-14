@@ -160,9 +160,8 @@ The script automatically generates:
 For questions regarding code or reproducibility:
 
 📧 **Miguel Ángel Montero-Alonso**  
-- Department of Statistics and Operational Research, University of Granada 
-- *ORCID*: 0000-0002-1214-9035
-- mmontero@ugr.es
+Department of Statistics and Operational Research, University of Granada 
+mmontero@ugr.es
 
 ---
 
@@ -176,9 +175,9 @@ This code and data are available under the **MIT License** (see LICENSE).
 
 If you use this repository, please cite as:
 
-> Martín-Rodríguez V, Enamorado-Plata A, González-Zarco MM, et al. Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes. BMC Critical Care. 2026. https://github.com/migmontal/PIC
+> Martín-Rodríguez V, Enamorado-Plata A, González-Zarco MM, et al. Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes. BMC Critical Care. 2026. https://github.com/migmontal/PICS
 
 ---
 
-**Repository:** https://github.com/migmontal/PIC  
+**Repository:** https://github.com/migmontal/PICS  
 **Last updated:** July 14, 2026
