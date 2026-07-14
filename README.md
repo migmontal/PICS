@@ -1,7 +1,7 @@
 # Post-Intensive Care Syndrome (PICS): Systematic Review and Meta-Analysis
 ## Reproducible Research Code
 
-**Repository:** https://github.com/migmontal/PIC
+**Repository:** https://github.com/migmontal/PICS
 
 ---
 
