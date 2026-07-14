@@ -160,8 +160,9 @@ The script automatically generates:
 For questions regarding code or reproducibility:
 
 📧 **Miguel Ángel Montero-Alonso**  
-Department of Statistics and Operational Research, University of Granada 
-mmontero@ugr.es
+- Department of Statistics and Operational Research, University of Granada 
+- *ORCID*: 0000-0002-1214-9035
+- mmontero@ugr.es
 
 ---
 
