@@ -151,7 +151,7 @@ The script automatically generates:
 **Search period:** 2015–2025  
 **Inclusion criteria:** Cohort studies, adults ≥19y, post-ICU outcomes  
 **Guidelines:** PRISMA 2020, STROBE  
-
+**Systematic Review Registration:** PROSPERO ID CRD420251169220
 ---
 
 ## Contact
