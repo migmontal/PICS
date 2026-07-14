@@ -58,7 +58,7 @@ write_csv(results, "meta_analysis_results.csv")
 results_reml <- bind_rows(lapply(domains, run_domain, method = "REML"))
 print(as.data.frame(results_reml), digits = 3)
 
-## sensitivity analyses (see META_ANALYSIS.md, data-quality flags) 
+## sensitivity analyses
 # Cognition excluding Nanwani-Nanwani (47.8 +/- 68.1 is not a MoCA/MMSE score):
 cog <- dat %>% filter(domain == "Cognition (MoCA/MMSE)",
                       !grepl("Nanwani", study))
