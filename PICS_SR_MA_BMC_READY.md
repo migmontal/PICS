@@ -435,10 +435,8 @@ Ultimately, addressing PICS comprehensively requires a shift toward survivorship
 ## SUPPLEMENTARY INFORMATION
 
 ### Figure 1. Flow diagram of the study selection process
-[Generate using the 325 → 22 flow per PRISMA]
 
 ### Figure 2. STROBE criteria met per study
-[Update caption to n = 22]
 
 ### Figures 3–6. Forest plots
 - **Figure 3:** 6-Minute Walk Test (m), k=4, I²=0%
@@ -446,34 +444,10 @@ Ultimately, addressing PICS comprehensively requires a shift toward survivorship
 - **Figure 5:** HADS-Anxiety (0–21), k=6, I²=82%
 - **Figure 6:** HADS-Depression (0–21), k=6, I²=90%
 
-[To generate: run `python3 meta_analysis.py` from Articles/PIC/]
-
 ### Table 6. Characteristics of 22 included studies
 [Supplement: full 2-page table with first author, year, country, design, n, follow-up, outcomes assessed, main findings]
 
 ### Appendix. PRISMA 2020 Checklist
-[Standard 27-item checklist, BMC format]
+[Standard 27-item checklist]
 
 ---
-
-## NOTES FOR PRODUCTION / SUBMISSION TO BMC CRITICAL CARE
-
-1. **Word count:** ~6,000 (excluding references, tables, supplementary material). BMC Critical Care has no strict limit; this is typical for systematic reviews.
-
-2. **References:** 38 citations, Vancouver style, numbered by order of appearance. All links verified; 3 added (STROBE [19], Wan [20], PRISMA [18]).
-
-3. **Tables:** 6 main tables + 1 supplementary. All cited in text; uniform "Table N." format.
-
-4. **Figures:** 6 figures (2 from original review, 4 new forest plots).
-
-5. **Data availability:** Provide `meta_analysis_data.csv` and `meta_analysis.py` as supplementary files or via GitHub/OSF for full reproducibility.
-
-6. **Funding/COI:** Add standard declarations.
-
-7. **Ethics:** Confirm that systematic reviews of published literature require no IRB approval (if applicable to your institution).
-
-8. **Author contributions:** Use CRediT roles (Conceptualization, Methodology, Formal Analysis, Writing – Original Draft, Writing – Review & Editing, Visualization).
-
----
-
-**STATUS: READY FOR WORD FORMATTING AND JOURNAL SUBMISSION**
