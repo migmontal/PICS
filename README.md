@@ -147,11 +147,12 @@ The script automatically generates:
 
 ## Study Protocol
 
-**Study type:** Systematic Review + Meta-analysis  
+**Study type:** Systematic Review + Meta-analysis 
 **Search period:** 2015–2025  
 **Inclusion criteria:** Cohort studies, adults ≥19y, post-ICU outcomes  
 **Guidelines:** PRISMA 2020, STROBE  
 **Systematic Review Registration:** PROSPERO ID CRD420251169220
+
 ---
 
 ## Contact
@@ -159,7 +160,8 @@ The script automatically generates:
 For questions regarding code or reproducibility:
 
 📧 **Miguel Ángel Montero-Alonso**  
-Department of Statistics and O.R., University of Granada  
+Department of Statistics and Operational Research, University of Granada 
+ORCID: 0000-0002-1214-9035
 mmontero@ugr.es
 
 ---
@@ -179,4 +181,4 @@ If you use this repository, please cite as:
 ---
 
 **Repository:** https://github.com/migmontal/PIC  
-**Last updated:** July 13, 2026
+**Last updated:** July 14, 2026
