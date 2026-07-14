@@ -12,13 +12,13 @@
 #         Wan et al. (2014) method before entry (median_converted == "yes").
 # =============================================================================
 
-## ---- packages -------------------------------------------------------------
+## packages 
 # install.packages(c("metafor", "dplyr", "readr"))
 library(metafor)
 library(dplyr)
 library(readr)
 
-## ---- data -----------------------------------------------------------------
+## data 
 dat <- read_csv("meta_analysis_data.csv", show_col_types = FALSE)
 
 # sampling variance of a mean = sd^2 / n
@@ -28,7 +28,7 @@ dat <- dat %>%
 
 domains <- unique(dat$domain)
 
-## ---- primary analysis: one random-effects model per domain ----------------
+## primary analysis: one random-effects model per domain 
 run_domain <- function(d, method = "DL") {
   sub <- dat %>% filter(domain == d)
   m <- rma(yi = mean, vi = vi, data = sub, method = method,
@@ -54,11 +54,11 @@ results <- bind_rows(lapply(domains, run_domain))
 print(as.data.frame(results), digits = 3)
 write_csv(results, "meta_analysis_results.csv")
 
-## ---- REML robustness check ------------------------------------------------
+## REML robustness check 
 results_reml <- bind_rows(lapply(domains, run_domain, method = "REML"))
 print(as.data.frame(results_reml), digits = 3)
 
-## ---- sensitivity analyses (see META_ANALYSIS.md, data-quality flags) ------
+## sensitivity analyses (see META_ANALYSIS.md, data-quality flags) 
 # Cognition excluding Nanwani-Nanwani (47.8 +/- 68.1 is not a MoCA/MMSE score):
 cog <- dat %>% filter(domain == "Cognition (MoCA/MMSE)",
                       !grepl("Nanwani", study))
@@ -72,7 +72,7 @@ print(rma(mean, vi, data = bar, method = "DL"))
 vent <- dat %>% filter(domain == "Ventilation (days)", !grepl("Milton", study))
 print(rma(mean, vi, data = vent, method = "DL"))
 
-## ---- forest plots ---------------------------------------------------------
+## forest plots 
 dir.create("forest_plots", showWarnings = FALSE)
 for (d in domains) {
   sub <- dat %>% filter(domain == d)
@@ -86,7 +86,7 @@ for (d in domains) {
   dev.off()
 }
 
-## ---- optional: funnel / Egger for domains with k >= 10 --------------------
+## optional: funnel / Egger for domains with k >= 10 
 for (d in domains) {
   sub <- dat %>% filter(domain == d)
   if (nrow(sub) >= 10) {

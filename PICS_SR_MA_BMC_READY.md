@@ -94,6 +94,20 @@ Methodological quality and reporting quality were assessed using the STROBE (Str
 
 For domains in which at least three cohorts reported extractable continuous data, we performed a random-effects meta-analysis of the reported group means. Studies reporting medians with interquartile ranges were converted to means and standard deviations using the method of Wan et al. [41]. The sampling variance of each study mean was estimated as SD²/n. Pooled means and 95% confidence intervals were obtained with the DerSimonian–Laird random-effects estimator; results were unchanged under restricted maximum-likelihood estimation (REML). Between-study heterogeneity was quantified with the τ² and I² statistics and Cochran's Q test, and 95% prediction intervals were derived to describe the expected range of true means in a new setting. Pre-specified sensitivity analyses removed studies using a non-comparable measurement scale or with implausible values. Analyses were performed in Python 3.x with NumPy and SciPy libraries; forest plots were generated using Matplotlib. Because most domains drew on fewer than ten cohorts, small-study/publication-bias tests (funnel asymmetry, Egger's test) were not formally interpreted.
 
+### Data Availability and Code Reproducibility
+
+All data and analysis code are publicly available to ensure full reproducibility of this systematic review and meta-analysis. The complete dataset (meta_analysis_data.csv) containing the extracted data from all 22 included studies, along with fully annotated R scripts for the meta-analytical synthesis, forest plot generation, and sensitivity analyses, can be accessed at the following GitHub repository:
+
+**GitHub Repository:** https://github.com/migmontal/PIC
+
+The repository includes:
+- Complete R analysis script with detailed comments on methods and assumptions
+- Raw meta-analysis data (77 rows × 10 domains)
+- Instructions for full reproducibility of all results and figures
+- Documentation of statistical methods (DerSimonian-Laird random-effects meta-analysis)
+
+Researchers may clone the repository and execute the analysis using R version ≥4.0 and the metafor package, enabling independent verification of all pooled estimates, heterogeneity indices, and sensitivity analyses reported in this manuscript.
+
 ---
 
 ## RESULTS

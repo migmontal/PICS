@@ -1,28 +1,49 @@
-# Temporary Word files
-~$*.docx
-~$*.doc
-
-# R history
+# Output files
+output/
+*.csv.out
+*.log
+.RData
 .Rhistory
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+
+# IDE
+.RProject
+*.Rproj
+.Rproj.user/
 
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# Excel temp files
+# OS
+.DS_Store
+Thumbs.db
+
+# Word/Excel temporaries
+~$*.docx
 ~$*.xlsx
 
-# Old/original files
-scrip\ post-ICU\ syndrome.docx
+# Manuscript files (not part of reproducible code)
+*.docx
+*.doc
+*.xlsx
+PICS_SR_MA_BMC_FINAL.docx
 PICS_SR_MA_BMC_READY.docx
-convert_to_word.py
-convert_md_docx.py
-python.bat
-python_setup.ps1
-
-# Build/test outputs
-*.aux
-*.log
-*.out
-meta_analysis_results.csv
+MEMORY.md
+DELIVERY_CHECKLIST.md
+META_ANALYSIS.md
+PROOFREAD_AND_IMPROVEMENTS.md
+forest_plots/
+scripts/01_meta_analysis.py
+COVER_LETTER.*
+EXECUTIVE_SUMMARY.md
+Figure*.png
+convert_*.py
+python.*
+scrip\ post-ICU\ syndrome.docx
+post_icu.xlsx
