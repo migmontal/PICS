@@ -7,7 +7,7 @@
 ³ Department of Statistics and O.R., Faculty of Medicine, University of Granada, 18016 Granada, Spain
 ⁴ Instituto de Investigación Biosanitaria ibs.GRANADA, Granada, Spain
 
-**Correspondence:** Virginia Martín-Rodríguez, virginiamr195@gmail.com; Miguel Ángel Montero-Alonso, mmontero@ugr.es
+**Correspondence:** Miguel Ángel Montero-Alonso, mmontero@ugr.es
 
 ---
 
