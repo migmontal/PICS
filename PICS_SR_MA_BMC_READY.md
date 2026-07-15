@@ -1,4 +1,4 @@
-# Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes
+# Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors and long-term outcomes
 
 **Virginia Martín-Rodríguez**¹, **Antonio Enamorado-Plata**², **María del Mar González-Zarco**¹, **Juan Álvarez-Jurado**¹, **Rosario Lozano-Sáez**¹, **Miguel Ángel Montero-Alonso**³⁴
 
