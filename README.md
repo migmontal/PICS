@@ -35,7 +35,7 @@ This repository contains the R code necessary to **fully reproduce** the statist
 
 > "Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes"
 
-**Submitted to:** BMC Critical Care (Open Access Journal)
+**Submitted to:** Annals of Intensive care
 
 ---
 
@@ -176,7 +176,7 @@ This code and data are available under the **MIT License** (see LICENSE).
 
 If you use this repository, please cite as:
 
-> Martín-Rodríguez V, Enamorado-Plata A, González-Zarco MM, et al. Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes. BMC Critical Care. 2026. https://github.com/migmontal/PICS
+> Martín-Rodríguez V, Enamorado-Plata A, González-Zarco MM, et al. Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes. Annals of Intensive care. 2026. https://github.com/migmontal/PICS
 
 ---
 
