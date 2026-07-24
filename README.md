@@ -35,7 +35,7 @@ This repository contains the R code necessary to **fully reproduce** the statist
 
 > "Post-Intensive Care Syndrome (PICS) in adult survivors: A systematic review and meta-analysis of assessment tools, risk factors, and long-term outcomes"
 
-**Submitted to:** Annals of Intensive care
+**Submitted to:** Scientific Reports
 
 ---
 
@@ -169,6 +169,11 @@ For questions regarding code or reproducibility:
 ## License
 
 This code and data are available under the **MIT License** (see LICENSE).
+
+---
+## Funding
+
+This work was financially supported by the Progress and Health Foundation. Ministry of Health and Consumer Affairs of the Regional Government of Andalusia (AP-0587-2024-C5-F2).
 
 ---
 
