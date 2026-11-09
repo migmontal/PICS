@@ -135,16 +135,6 @@ The script automatically generates:
 
 ---
 
-## Transparency and Reproducibility
-
-✅ **Fully public data** - meta_analysis_data.csv  
-✅ **Annotated code** - Scripts with methodological details  
-✅ **No hardcoded paths** - Works in any directory  
-✅ **No proprietary dependencies** - Only R base + CRAN packages  
-✅ **Documented versions** - sessionInfo() at end of script  
-
----
-
 ## Study Protocol
 
 **Study type:** Systematic Review + Meta-analysis 
@@ -173,7 +163,7 @@ This code and data are available under the **MIT License** (see LICENSE).
 ---
 ## Funding
 
-This work was financially supported by the Progress and Health Foundation. Ministry of Health and Consumer Affairs of the Regional Government of Andalusia (AP-0587-2024-C5-F2).
+This work was financially supported by the Progress and Health Foundation. Ministry of Health and Consumer Affairs of the Regional Government of Andalusia (AP-0587-2024-C5-F2) and University of Granada Research and Knowledge Transfer Plan. 2024. Program 21. Research Stimulation Program (PP2024-EI-02).
 
 ---
 
